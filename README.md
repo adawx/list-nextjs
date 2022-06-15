@@ -1,5 +1,6 @@
-## next-template
-Starter template for NextJS projects (using create-next-app), using Trpc & Tailwind. Purposefully without a ORM to leave flexibility for graph based projects, etc. 
+## list-nextjs
+
+Testing out Prisma/ChakraUI/tRPC/React Query
 
 ## Getting Started
 
